@@ -23,7 +23,7 @@ I am an **Information Systems student** at the State University of Montes Claros
 ---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=davi7767&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?davi7767=davi7767&show_icons=true&theme=radical)
 
 ---
 
