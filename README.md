@@ -23,10 +23,10 @@ I am an **Information Systems student** at the State University of Montes Claros
 ---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=davi7767&show_icons=true&theme=radical)
 
 ---
 
 ## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/seu_perfil/](https://www.linkedin.com/in/davi-palma-249b29204/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/Davi_Palma/)
 [![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail)](mailto:davi03palma@gmail.com)
